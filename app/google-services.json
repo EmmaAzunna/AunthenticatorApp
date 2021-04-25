@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1044416335088",
+    "project_id": "authenticator-87abb",
+    "storage_bucket": "authenticator-87abb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044416335088:android:6acba2d23f935a7f92c635",
+        "android_client_info": {
+          "package_name": "com.example.authenticatoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044416335088-4cr25rjckk1bp8u4otpec594av6abvq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFFfAiSF9fIWyxcoPYhpXqJkyoiN0yZkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044416335088-4cr25rjckk1bp8u4otpec594av6abvq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
